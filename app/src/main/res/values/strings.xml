@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+
+    <!-- Login -->
+    <string name="login_username">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_submit">Login</string>
+    <string name="login_error">Wrong Credentials</string>
+
+    <!-- Home -->
+    <string name="home_title">Pets</string>
+
+    <!-- Item -->
+    <string name="item_pet_description">Pet Image</string>
+    <string name="item_pet_shared_name">pet_shared_%1$d</string>
+
+    <plurals name="pet_plural_format">
+        <item quantity="one">%1$s, %2$d year</item>
+        <item quantity="other">%1$s, %2$d years</item>
+    </plurals>
+
+    <!-- Details -->
+    <string name="details_color_title">Color</string>
+    <string name="details_description_title">Description</string>
+</resources>
